@@ -3,10 +3,11 @@ package com.example.gridWars;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class GridWarsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GridWarsApplication.class, args);
-	}
+		//SpringApplication.run(GridWarsApplication.class, args);
+        System.out.println("Started game----->>>>>");
+    }
 }

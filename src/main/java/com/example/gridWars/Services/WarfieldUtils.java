@@ -11,7 +11,6 @@ public class WarfieldUtils {
 
     public static Position getAgentPosition(Position prevPosition,int Direction){
         Position newPosition = new Position();
-
         return newPosition;
     }
 }
